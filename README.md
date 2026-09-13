@@ -34,7 +34,7 @@ Currently building. Repos go public as each one ships:
 | # | Project | Status |
 |---|---------|--------|
 | 1 | [CI/CD Security Pipeline (DevSecOps)](https://github.com/deepaakrajj/cicd-security-pipeline) | ✅ Done |
-| 2 | Kubernetes Security Hardening Scanner | 🔨 In Progress |
+| 2 | [Kubernetes Security Hardening Scanner](https://github.com/deepaakrajj/kubernetes-security-hardening) | ✅ Done |
 | 3 | Serverless Threat Detection Pipeline | 📅 Planned |
 | 4 | CloudGoat Attack & Defense Lab | 📅 Planned |
 | 5 | AI-Powered Threat Intelligence Platform | 📅 Planned |
