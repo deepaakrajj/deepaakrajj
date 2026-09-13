@@ -17,7 +17,7 @@ Currently building hands-on cloud/DevSecOps security projects. Open to Summer 20
 
 CEH · ISC2 CC · Zscaler ZTCA · Google Cybersecurity Professional Certificate · ArcX CTI Analyst · AWS Academy Cloud Foundations · AWS Academy Cloud Architecting
 
-*In progress: AWS Certified Cloud Practitioner, AWS Security Specialty, OSCP*
+*In progress: AWS Certified Cloud Practitioner, AWS Security Specialty*
 
 ---
 
