@@ -1,40 +1,53 @@
 # Deepak Raj
 
-Cybersecurity grad student at ASU, focusing on threat detection, 
-incident response, and GRC. CEH certified with hands-on experience 
-deploying Wazuh SIEM in a real internship environment.
+Cybersecurity grad student at ASU, focusing on cloud security, threat detection, and incident response. CEH certified with hands-on experience across SOC workflows, cloud security audits, and network defense through four internships.
 
-Currently building security tools and looking for Summer 2026 internships.
+Currently building hands-on cloud/DevSecOps security projects. Open to Summer 2027 internships.
 
 ---
 
-## 🎓 Education
-- **M.S. Computer Science (Cybersecurity)** — Arizona State University (Expected 2027)
-- **B.Tech Computer Science (Cybersecurity)** — SRMIST (2025)
+### 🎓 Education
 
-## 🏅 Certifications
-CEH · ISC2 CC · Zscaler ZTCA · Google Cybersecurity · AWS Cloud · ArcX CTI Analyst
-
-## 🔧 Tools & Skills
-Wazuh · Nmap · Burp Suite · Wireshark · Metasploit · Python · Bash
-NIST CSF · MITRE ATT&CK · OWASP · Zero Trust · AWS IAM · GRC
-
-## 🚀 Projects
-| # | Project | Tools | Status |
-|---|---|---|---|
-| 1 | Phishing Email Analyzer | Python, VirusTotal API | 🔨 In Progress |
-| 2 | Wazuh SIEM Home Lab | Wazuh, UTM, MITRE ATT&CK | 🔨 In Progress |
-| 3 | Honeypot | Python, Cowrie, Linux | 📅 Planned |
-| 4 | AWS IAM Misconfiguration Scanner | Python, AWS | 📅 Planned |
-| 5 | Ransomware Simulation + IR Plan | Python, UTM, NIST | 📅 Planned |
-
-## 💼 Experience
-- **Cybersecurity Intern** — Cyberfort Software Solutions (Deployed Wazuh SIEM)
-- **Cloud Security Intern** — AWS Academy 
-- **Cybersecurity Intern** — Fortinet
-- **Cybersecurity Intern** — Palo Alto Networks
+- **M.S. Computer Science (Cybersecurity)** — Arizona State University (Aug 2025 – May 2027), GPA 3.39
+- **B.Tech Computer Science (Cybersecurity)** — SRM Institute of Science and Technology (Aug 2021 – May 2025)
 
 ---
 
-📍 Tempe, AZ · 📫 dvinojra@asu.edu · 
-[LinkedIn](https://linkedin.com/in/deepaakrajj)
+### 🏅 Certifications
+
+CEH · ISC2 CC · Zscaler ZTCA · Google Cybersecurity Professional Certificate · ArcX CTI Analyst · AWS Academy Cloud Foundations · AWS Academy Cloud Architecting
+
+*In progress: AWS Certified Cloud Practitioner, AWS Security Specialty, OSCP*
+
+---
+
+### 🔧 Tools & Skills
+
+Nmap · Gobuster · ffuf · Hydra · Burp Suite · Wireshark · Metasploit · John the Ripper · GTFOBins · Python · Bash · AWS IAM · GuardDuty · MITRE ATT&CK · NIST CSF · Zero Trust · GRC
+
+---
+
+### 🚀 Projects
+
+Currently building. Repos go public as each one ships:
+
+| # | Project | Status |
+|---|---------|--------|
+| 1 | CI/CD Security Pipeline (DevSecOps) | 🔨 In Progress |
+| 2 | Kubernetes Security Hardening Scanner | 📅 Planned |
+| 3 | Serverless Threat Detection Pipeline | 📅 Planned |
+| 4 | CloudGoat Attack & Defense Lab | 📅 Planned |
+| 5 | AI-Powered Threat Intelligence Platform | 📅 Planned |
+
+---
+
+### 💼 Experience
+
+- **Cybersecurity Intern** — Cyberfort Digisec Solution Pvt Ltd (Dec 2023 – Apr 2024)
+- **Cloud Security Virtual Intern** — AWS Academy, AICTE EduSkills Partnership (Jan – Mar 2024)
+- **Network Security Virtual Intern** — Fortinet, AICTE EduSkills Partnership (Sep – Nov 2023)
+- **Cybersecurity Virtual Intern** — Palo Alto Networks, AICTE EduSkills Partnership (May – Jul 2023)
+
+---
+
+📍 Tempe, AZ · 📧 dvinojra@asu.edu · [LinkedIn](https://linkedin.com/in/deepaakrajj)
