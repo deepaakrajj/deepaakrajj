@@ -2,7 +2,7 @@
 
 Cybersecurity grad student at ASU, focusing on cloud security, threat detection, and incident response. CEH certified with hands-on experience across SOC workflows, cloud security audits, and network defense through four internships.
 
-Currently building hands-on cloud/DevSecOps security projects. Open to Summer 2027 internships.
+Currently building hands-on cloud/DevSecOps security projects. Also interested in secure and trustworthy AI: making AI outputs verifiable and hard to manipulate.
 
 ---
 
