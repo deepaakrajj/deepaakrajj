@@ -29,8 +29,6 @@ Nmap · Gobuster · ffuf · Hydra · Burp Suite · Wireshark · Metasploit · Jo
 
 ### 🚀 Projects
 
-Currently building. Repos go public as each one ships:
-
 | # | Project | Status |
 |---|---------|--------|
 | 1 | [CI/CD Security Pipeline (DevSecOps)](https://github.com/deepaakrajj/cicd-security-pipeline) | ✅ Done |
